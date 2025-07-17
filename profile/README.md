@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Crypto Flashing Software [FLASH USDT SENDER](https://t.me/Sellssupport)
 
-- 📝 I regularly write articles on [https://t.me/Cryptoo_soft](https://t.me/Sellssupport)
+- 📝 I regularly write articles on [https://t.me/Sellssupport](https://t.me/Sellssupport)
 
 - 💬 Ask me about **Blockchain Technology Web3**
 
