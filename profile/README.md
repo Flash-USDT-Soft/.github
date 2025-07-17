@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flash-usdt-soft" alt="flash-usdt-soft" /></a> </p>
 
-- 🔭 I’m currently working on Crypto Flashing Software [FLASH USDT SENDER](https://t.me/Cryptoo_soft)
+- 🔭 I’m currently working on Crypto Flashing Software [FLASH USDT SENDER](https://t.me/Sellssupport)
 
-- 📝 I regularly write articles on [https://t.me/Cryptoo_soft](https://t.me/Cryptoo_soft)
+- 📝 I regularly write articles on [https://t.me/Cryptoo_soft](https://t.me/Sellssupport)
 
 - 💬 Ask me about **Blockchain Technology Web3**
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flash-usdt-soft&show_icons=true&locale=en" alt="flash-usdt-soft" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flash-usdt-soft&" alt="flash-usdt-soft" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flash-usdt-soft&" alt="flash-usdt-soft" /><
