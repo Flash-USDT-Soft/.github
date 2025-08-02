@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashusdt&show_icons=true&locale=en&layout=compact" alt="Flashusdt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flash-usdt-soft&show_icons=true&locale=en" alt="flash-usdt-soft" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flashusdt&show_icons=true&locale=en" alt="flashusdt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flash-usdt-soft&" alt="flash-usdt-soft" /><
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashusdt&" alt="flashusdt" /><
